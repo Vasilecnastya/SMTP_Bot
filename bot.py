@@ -4,9 +4,9 @@ import re
 
 
 # Теперь загрузите переменные
-BOT_TOKEN = '7288594127:AAHZ02odv_TaukTndvvO5lP9Eb8dZ2zh0Kk'
-EMAIL_LOGIN = 'Vasilecnastya03@yandex.ru'
-EMAIL_PASSWORD = 'qxrcetlxnkaznciq'
+BOT_TOKEN = 'токен сюда'
+EMAIL_LOGIN = 'почту ввести сюда'
+EMAIL_PASSWORD = 'пароль ввести сюда'
 
 print("BOT_TOKEN:", BOT_TOKEN)
 print("EMAIL_LOGIN:", EMAIL_LOGIN)
